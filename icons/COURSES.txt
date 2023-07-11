@@ -1,0 +1,24 @@
+COURSES:
+
+BOOTCAMPS: 
+Data Analysis - 150k (30% Discount), 12 Weeks
+Data Science - 150k (30% Discount), 12 Weeks
+Business Intelligence Analysis  - 100k (30% Discount), 8 Weeks. 
+
+
+INDIVIDUAL TRAINING: 
+
+Data Analysis - 250k (30% Discount), 12 Weeks
+Data Science - 250k (30% Discount), 12 Weeks
+Business Intelligence Analysis  - 200k (30% Discount), 8 Weeks. 
+
+
+SPECIALIZATIONS:
+Python for Data Science: 50k - 4 Weeks
+Microsoft Excel for Data Analysis: 50k for 4 Weeks
+Microsoft Power BI  50k for 4 Weeks
+MySQL for Data Analysis 50k for 4 Weeks. 
+
+
+CORPORTATE TRAININGS: 
+This section should move to a form asking the company to contact us or drop their contact info for us to contact them for pricing options. 
